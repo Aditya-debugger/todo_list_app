@@ -1,0 +1,26 @@
+{
+  "anime": {
+    "tasks": [
+      {
+        "description": "your_name",
+        "completed": true
+      },
+      {
+        "description": "silent_voice",
+        "completed": false
+      }
+    ]
+  },
+  "shopping": {
+    "tasks": [
+      {
+        "description": "Bread",
+        "completed": false
+      },
+      {
+        "description": "Water",
+        "completed": true
+      }
+    ]
+  }
+}
